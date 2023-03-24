@@ -6,4 +6,5 @@ int n;
 
 void input() {
 	while (true) {
+		cout << "masukan jumlah data pada array";
 		
